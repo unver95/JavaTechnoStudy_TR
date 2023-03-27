@@ -1,0 +1,4 @@
+    PUBLIC : bütün heryerden ulaşabiliyorum. package class farketmez.
+    STATIC : Obje tanımlamadan ulaşım sağlayabiliriz. Class içi kullanımlar için geçerlidir.
+    FINAL  : Value değiştirilemez. Değiştirmek için ilk tanımlama yada CONSTRUCTER tanımlarken yeni VALUE atanabilir.
+    INT    : tipi

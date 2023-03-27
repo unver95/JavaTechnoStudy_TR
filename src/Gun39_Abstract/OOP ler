@@ -1,0 +1,16 @@
+OOP :
+Encapsulation : (Kapsülleme): private,get-set
+Inheritance   : (Kalıtım)   : bir çok class ın ortak olanlar
+                 kısımları için bı parentClass yaparak, sonraki
+                 class ların ondan türetilmesine Kalıtım demiştik.
+  polymorphism: (Çok şekillilik) : bir parent class a sahip,
+                bir class ın, istenildiğinde parent Class,
+                istenildiğinde kendisi gibi geçerli olmasına denir.
+Interface     : birden çok class ın, aynı metod isimleriyle
+                oluşturulmasını zorunlu yapan, bir yazılım planlama
+                yöntemiydi.Böylece bir çok farklı class için, çağrılan
+                metod isimleri aynı, fakat içerikleri farklı classlar
+                oluşturulabilmiş oluyor.(hibrit araç, hepsburada,trendyol)
+
+Abstract      : bir tane Interface varsa ve bir tane parent class ın varsa
+                Inheritance+Interface -> Abstract Class.

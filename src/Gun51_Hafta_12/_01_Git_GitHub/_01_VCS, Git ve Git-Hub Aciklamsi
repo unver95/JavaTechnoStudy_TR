@@ -1,0 +1,23 @@
+Version Control System -> VCS
+-Her bir değişiklik için bir etiket vermemiz gerekiyor
+-Yapılan değişiklikleri kim ne zaman yaptı
+-Aynı projede biden fazla kişinini çalışma yapmasına
+ imkan sağlıyor. Sonra bu kodlar birleştiriliyor.
+-Kod yönetimi, log sistemi
+
+VCS için hangi programlar var
+Git -> Open source : Genel olarak bu kullanılıyor
+TFS -> Microsoft VCS
+SVN Tourties -> Open Source
+
+Open source: ücretsiz, comunity geliştirme ve çözümler
+Ücretli yazılımlar: karşında sorumlu bir şirket var.ücretli
+
+----------------------
+Git -> VCS : kod kontrolü yapan program
+HUB-> merkez birleşme noktası
+
+Git-Hub -> Git in merkezi-> Web tabanlı kod paylaşım havuzu
+
+GitHub ->
+GitLab ->

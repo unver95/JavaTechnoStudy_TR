@@ -1,0 +1,9 @@
+access modifier : metod,class, fields nereelrden erişilebilir
+    public : herden (diğer paketlerden,kedi paketinden, kendi class ından erişilebilir)
+    defualt: sadece kendi paketinden ve knedi classının içinde erişilebilir
+    private: sadece class ından erişilebilir.direk atama yok.
+
+get-set
+    private filedlar için bir metod ile kontrollu erişim sağlanır, veri atanı veya alınır.
+    atamaya set, almaya get diyoruz. şifreyi atama gibi düşünelim yani, kontrol ederek şifre
+    atama kurallarına uyugn ise ata , bunu kontrol edecek metoda SET metodu diyoruz.

@@ -1,0 +1,4 @@
+    // KURAL: genel yazılım kuralıdır.
+    // bütün değişkenler private yapılır.
+    // yani Kapsulleme ile kullanılır.
+    // Eğer gerekiyorsa private kaldırılır.
